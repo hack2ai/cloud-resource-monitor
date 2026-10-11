@@ -1,0 +1,9 @@
+# Cloud Resource Monitor - Dependencies
+# All standard library — no pip install needed!
+# Python 3.8+ required
+
+# Standard libraries used:
+# - json
+# - random
+# - datetime
+# - typing
